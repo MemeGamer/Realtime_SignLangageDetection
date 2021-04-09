@@ -6,4 +6,4 @@ by finding the hypotenuse between the two Points P8 and P12 we can use it in if 
 further mode points can be created on  screen to measure the distance between the point and your hand landmark, as done in Food loop 
 the distance between the center point of the head detection and the middle finger is calculated to see if it closed to the mouth.
 
-Import dependencies to make it function without any errors
+Import dependencies to make it function without any errors.
